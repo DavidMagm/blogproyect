@@ -15,5 +15,5 @@ es hora de practicar
 un cambio para el nuevo colaborador
 
 ahora me uno desde la consola de microsoft 
-master 2
-master 1
+
+master 4
